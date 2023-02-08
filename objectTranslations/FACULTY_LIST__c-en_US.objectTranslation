@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>FACULTY LIST</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>FACULTY LISTS</value>
+    </caseValues>
+    <fields>
+        <label><!-- AGE --></label>
+        <name>AGE__c</name>
+    </fields>
+    <fields>
+        <label><!-- BRANCH --></label>
+        <name>BRANCH__c</name>
+        <relationshipLabel><!-- FACULTY LISTS --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Experience --></label>
+        <name>Experience__c</name>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NA</masterLabel>
+            <translation><!-- NA --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Please write your futher qualifications --></help>
+        <label><!-- OTHER QUALIFICATIONS --></label>
+        <name>OTHER_QUALIFICATIONS__c</name>
+    </fields>
+    <fields>
+        <label><!-- PERSONAL GMAIL-ID --></label>
+        <name>PERSONAL_GMAIL_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- QUALIFICATION --></label>
+        <name>QUALIFICATION__c</name>
+        <picklistValues>
+            <masterLabel>B.TECH</masterLabel>
+            <translation><!-- B.TECH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>DEGREE</masterLabel>
+            <translation><!-- DEGREE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>M.TECH</masterLabel>
+            <translation><!-- M.TECH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OTHERS</masterLabel>
+            <translation><!-- OTHERS --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Specialization --></label>
+        <name>Specialization__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

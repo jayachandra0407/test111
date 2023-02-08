@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Student</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Students</value>
+    </caseValues>
+    <fields>
+        <label><!-- Batch type --></label>
+        <name>Batch_type__c</name>
+        <picklistValues>
+            <masterLabel>Allout</masterLabel>
+            <translation><!-- Allout --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regular</masterLabel>
+            <translation><!-- Regular --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Supply</masterLabel>
+            <translation><!-- Supply --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Department --></label>
+        <name>Department__c</name>
+        <picklistValues>
+            <masterLabel>AERO</masterLabel>
+            <translation><!-- AERO --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>AUTO-MOBILE</masterLabel>
+            <translation><!-- AUTO-MOBILE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>BIO-TECH</masterLabel>
+            <translation><!-- BIO-TECH --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CHEMICAL</masterLabel>
+            <translation><!-- CHEMICAL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CIVIL</masterLabel>
+            <translation><!-- CIVIL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CSE</masterLabel>
+            <translation><!-- CSE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ECE</masterLabel>
+            <translation><!-- ECE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>EEE</masterLabel>
+            <translation><!-- EEE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>MECH</masterLabel>
+            <translation><!-- MECH --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>N/A</masterLabel>
+            <translation><!-- N/A --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- HOD --></label>
+        <name>HOD__c</name>
+        <relationshipLabel><!-- Students --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- ROLL NO --></label>
+        <name>ROLL_NO__c</name>
+    </fields>
+    <fields>
+        <label><!-- Scholarship --></label>
+        <name>Scholarship__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sport --></label>
+        <name>Sport__c</name>
+        <relationshipLabel><!-- Students --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Year --></label>
+        <name>Year__c</name>
+        <picklistValues>
+            <masterLabel>First</masterLabel>
+            <translation><!-- First --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fourth</masterLabel>
+            <translation><!-- Fourth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Second</masterLabel>
+            <translation><!-- Second --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Third</masterLabel>
+            <translation><!-- Third --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- age --></label>
+        <name>age__c</name>
+    </fields>
+    <fields>
+        <label><!-- fee 1 --></label>
+        <name>fee_1__c</name>
+    </fields>
+    <fields>
+        <label><!-- fee 2 --></label>
+        <name>fee_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- personal gmail id --></label>
+        <name>personal_gmail_id__c</name>
+    </fields>
+    <fields>
+        <help><!-- I need it to be perfect --></help>
+        <label><!-- t f --></label>
+        <name>t_f__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Record 1 --></label>
+        <name>Record_1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Record 2 --></label>
+        <name>Record_2</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

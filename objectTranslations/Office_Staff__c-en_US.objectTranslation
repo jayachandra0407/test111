@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Office Staff</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Office Staffs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Role --></label>
+        <name>Role__c</name>
+        <picklistValues>
+            <masterLabel>Accountant</masterLabel>
+            <translation><!-- Accountant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Clerk</masterLabel>
+            <translation><!-- Clerk --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>College Bus Controller</masterLabel>
+            <translation><!-- College Bus Controller --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Receptionist</masterLabel>
+            <translation><!-- Receptionist --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Warden</masterLabel>
+            <translation><!-- Warden --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

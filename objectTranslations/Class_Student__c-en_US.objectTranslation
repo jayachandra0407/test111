@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Class Student</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Class Students</value>
+    </caseValues>
+    <fields>
+        <label><!-- AGE --></label>
+        <name>AGE__c</name>
+    </fields>
+    <fields>
+        <label><!-- Approval Status --></label>
+        <name>Approval_Status__c</name>
+        <picklistValues>
+            <masterLabel>Approved</masterLabel>
+            <translation><!-- Approved --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>None</masterLabel>
+            <translation><!-- None --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rejected</masterLabel>
+            <translation><!-- Rejected --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- BRANCH --></label>
+        <name>BRANCH__c</name>
+        <relationshipLabel><!-- Class Students --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Building Fee --></label>
+        <name>Building_Fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Bus fee --></label>
+        <name>Bus_fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- CLASS XII INSTITUTION NAME --></label>
+        <name>CLASS_XII_INSTITUTION_NAME__c</name>
+    </fields>
+    <fields>
+        <label><!-- CLASS XII PERCENTAGE --></label>
+        <name>CLASS_XII_PERCENTAGE__c</name>
+    </fields>
+    <fields>
+        <label><!-- CLASS X INSTITUTION NAME --></label>
+        <name>CLASS_X_INSTITUTION_NAME__c</name>
+    </fields>
+    <fields>
+        <label><!-- CLASS X PERCENTAGE --></label>
+        <name>CLASS_X_PERCENTAGE__c</name>
+    </fields>
+    <fields>
+        <label><!-- DOB --></label>
+        <name>DOB__c</name>
+    </fields>
+    <fields>
+        <help><!-- The Total fee paid by the Student --></help>
+        <label><!-- FeePaid --></label>
+        <name>FeePaid__c</name>
+    </fields>
+    <fields>
+        <label><!-- Gender --></label>
+        <name>Gender__c</name>
+        <picklistValues>
+            <masterLabel>Female</masterLabel>
+            <translation><!-- Female --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Male</masterLabel>
+            <translation><!-- Male --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NA</masterLabel>
+            <translation><!-- NA --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Last Fee paid --></label>
+        <name>Last_Fee_paid__c</name>
+    </fields>
+    <fields>
+        <help><!-- To update the fees it is compulsory to change the date --></help>
+        <label><!-- Last Fee paid on --></label>
+        <name>Last_Fee_paid_on__c</name>
+    </fields>
+    <fields>
+        <label><!-- Library Fee --></label>
+        <name>Library_Fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Mobile No --></label>
+        <name>Mobile_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- Need a Bus pass --></label>
+        <name>Need_a_Bus_pass__c</name>
+    </fields>
+    <fields>
+        <label><!-- PERSONAL GMAIL-ID --></label>
+        <name>PERSONAL_GMAIL_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Email Id --></label>
+        <name>Parent_Email_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Mobile No --></label>
+        <name>Parent_Mobile_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Name --></label>
+        <name>Parent_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Occupation --></label>
+        <name>Parent_Occupation__c</name>
+    </fields>
+    <fields>
+        <label><!-- Parent Relation --></label>
+        <name>Parent_Relation__c</name>
+        <picklistValues>
+            <masterLabel>Father</masterLabel>
+            <translation><!-- Father --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Guardian</masterLabel>
+            <translation><!-- Guardian --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mother</masterLabel>
+            <translation><!-- Mother --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Permanent Address --></label>
+        <name>Permanent_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- ROLL NO --></label>
+        <name>ROLL_NO__c</name>
+    </fields>
+    <fields>
+        <help><!-- checking the box indicates that the student is eligible for government scholarship --></help>
+        <label><!-- Reimbursement Student --></label>
+        <name>Reimbursement_Student__c</name>
+    </fields>
+    <fields>
+        <label><!-- Scholarship Amount --></label>
+        <name>Scholarship_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sports --></label>
+        <name>Sports__c</name>
+        <picklistValues>
+            <masterLabel>Badminton</masterLabel>
+            <translation><!-- Badminton --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Chess</masterLabel>
+            <translation><!-- Chess --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cricket</masterLabel>
+            <translation><!-- Cricket --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hockey</masterLabel>
+            <translation><!-- Hockey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kabbadi</masterLabel>
+            <translation><!-- Kabbadi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Volley Ball</masterLabel>
+            <translation><!-- Volley Ball --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Total College Fee --></label>
+        <name>Total_College_Fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total fee Pending --></label>
+        <name>Total_fee_Pending__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tution Fee --></label>
+        <name>Tution_Fee__c</name>
+    </fields>
+    <fields>
+        <label><!-- student permanent address --></label>
+        <name>student_permanent_address__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Female --></label>
+        <name>Female</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Male --></label>
+        <name>Male</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- NA --></label>
+        <name>NA</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- bvjb --></label>
+        <name>bvjb</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- iiii --></label>
+        <name>iiii</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Seems like you&apos;ve paid some extra fees.
+We just want what you should pay.
+Pay the requried amount and Enjoy the tip --></errorMessage>
+        <name>Fee_paid_greater_than_Total_fee</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Scholarship should be less than Tution fee --></errorMessage>
+        <name>Scholarship_amount_less_than_tution_fee</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- please dont pay more amount
+dabbulu vurike radhu --></errorMessage>
+        <name>last_fee_paid_less_than_fee_pending</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Scholarship amount is greater than tution fee
+we cant pay that much amount --></errorMessage>
+        <name>scholarship_amount_check</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>BRANCH</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>BRANCHS</value>
+    </caseValues>
+    <fields>
+        <label><!-- Branch Students Fees Collected --></label>
+        <name>Branch_Students_Fees_Collected__c</name>
+    </fields>
+    <fields>
+        <label><!-- Branch Students Fees Pending --></label>
+        <name>Branch_Students_Fees_Pending__c</name>
+    </fields>
+    <fields>
+        <label><!-- HOD --></label>
+        <name>HOD__c</name>
+        <relationshipLabel><!-- BRANCHS --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- NO OF STUDENTS --></label>
+        <name>NO_OF_STUDENTS__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
