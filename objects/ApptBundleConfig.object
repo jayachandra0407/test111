@@ -137,6 +137,7 @@
         <customTabListAdditionalFields>StatusesNotToUpdateOnUnbundle</customTabListAdditionalFields>
         <customTabListAdditionalFields>BundleStatusesToPropagate</customTabListAdditionalFields>
         <customTabListAdditionalFields>MemberStatusesNotToPropagate</customTabListAdditionalFields>
+        <customTabListAdditionalFields>DoesAddTravelTime</customTabListAdditionalFields>
         <lookupDialogsAdditionalFields>AddToBundleStatuses</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>RemoveFromBundleStatuses</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>CriteriaForAutoUnbundling</lookupDialogsAdditionalFields>
@@ -144,6 +145,7 @@
         <lookupDialogsAdditionalFields>StatusesNotToUpdateOnUnbundle</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>BundleStatusesToPropagate</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>MemberStatusesNotToPropagate</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>DoesAddTravelTime</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>AddToBundleStatuses</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>RemoveFromBundleStatuses</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CriteriaForAutoUnbundling</lookupPhoneDialogsAdditionalFields>
@@ -151,6 +153,7 @@
         <lookupPhoneDialogsAdditionalFields>StatusesNotToUpdateOnUnbundle</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>BundleStatusesToPropagate</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>MemberStatusesNotToPropagate</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>DoesAddTravelTime</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>AddToBundleStatuses</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>RemoveFromBundleStatuses</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CriteriaForAutoUnbundling</searchResultsAdditionalFields>
@@ -158,6 +161,7 @@
         <searchResultsAdditionalFields>StatusesNotToUpdateOnUnbundle</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>BundleStatusesToPropagate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>MemberStatusesNotToPropagate</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>DoesAddTravelTime</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>Private</sharingModel>
 </CustomObject>

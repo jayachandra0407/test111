@@ -19,4 +19,5 @@
     <tabs>Vehicle_Interest__c</tabs>
     <tabs>standard-report</tabs>
     <uiType>Lightning</uiType>
+    <utilityBar>LightningSales_UtilityBar</utilityBar>
 </CustomApplication>
